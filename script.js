@@ -1,4 +1,4 @@
-const API_KEY = "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";
+const API_KEY = "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";
 const API_URL = "https://openrouter.ai/api/v1/chat/completions";
 const MODEL = "nvidia/nemotron-3-nano-30b-a3b:free";
 
